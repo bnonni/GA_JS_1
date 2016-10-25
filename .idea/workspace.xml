@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b4cf5d3-944c-43a3-a518-40cb05182f68" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SuperRandomGenerator5000.js" afterPath="$PROJECT_DIR$/hw2/SuperRandomGenerator5000.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hw1/Beer.js" afterPath="$PROJECT_DIR$/hw1/Beer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hw2/SuperRandomGenerator5000.js" afterPath="$PROJECT_DIR$/hw2/SuperRandomGenerator5000.js" />
     </list>
     <ignored path="bnonni.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,8 +62,8 @@
       <file leaf-file-name="Beer.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hw1/Beer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            <state relative-caret-position="150">
+              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -82,8 +84,8 @@
       <file leaf-file-name="SuperRandomGenerator5000.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hw2/SuperRandomGenerator5000.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="75">
+              <caret line="5" column="141" selection-start-line="5" selection-start-column="141" selection-end-line="5" selection-end-column="141" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -117,9 +119,9 @@
         <option value="$PROJECT_DIR$/fizzbuzz.js" />
         <option value="$PROJECT_DIR$/Loops.js" />
         <option value="$PROJECT_DIR$/hw2/SuperRandoGenerator5000.js" />
-        <option value="$PROJECT_DIR$/hw2/SuperRandomGenerator5000.js" />
         <option value="$PROJECT_DIR$/Class Work/Loops.js" />
         <option value="$PROJECT_DIR$/SuperRandomGenerator5000.js" />
+        <option value="$PROJECT_DIR$/hw2/SuperRandomGenerator5000.js" />
         <option value="$PROJECT_DIR$/hw1/Beer.js" />
       </list>
     </option>
@@ -314,12 +316,12 @@
       <option name="presentableId" value="Default" />
       <updated>1476400323435</updated>
       <workItem from="1476400324702" duration="2648000" />
-      <workItem from="1476831068313" duration="21490000" />
+      <workItem from="1476831068313" duration="22688000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25975000" />
+    <option name="totallyTimeSpent" value="27173000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="820" extended-state="0" />
@@ -462,8 +464,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hw2/SuperRandomGenerator5000.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="5" column="141" selection-start-line="5" selection-start-column="141" selection-end-line="5" selection-end-column="141" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -472,8 +474,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hw1/Beer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        <state relative-caret-position="150">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
