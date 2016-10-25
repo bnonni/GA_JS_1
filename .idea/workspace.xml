@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b4cf5d3-944c-43a3-a518-40cb05182f68" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hw2/SuperRandomGenerator5000.js" afterPath="$PROJECT_DIR$/hw2/SuperRandomGenerator5000.js" />
-    </list>
+    <list default="true" id="6b4cf5d3-944c-43a3-a518-40cb05182f68" name="Default" comment="" />
     <ignored path="bnonni.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -233,15 +231,15 @@
       <option name="presentableId" value="Default" />
       <updated>1476400323435</updated>
       <workItem from="1476400324702" duration="2648000" />
-      <workItem from="1476831068313" duration="23905000" />
+      <workItem from="1476831068313" duration="23931000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28390000" />
+    <option name="totallyTimeSpent" value="28416000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-27" y="23" width="1440" height="820" extended-state="0" />
+    <frame x="-27" y="23" width="1440" height="820" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18680556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
