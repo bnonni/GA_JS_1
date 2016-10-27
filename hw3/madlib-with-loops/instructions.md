@@ -29,4 +29,5 @@ Were you able to meet the minimum requirements for the exercise? Want an additio
 
 * Add functionality to make the "Favorite Startup" button work--when the "Favorite Startup" button is clicked, it should save that madlib saying to an array.
 
-* Add functionality to make the "Print favorites" button work--when the "Print favorites" button is clicked, it should display all of the favorited startups in the array underneath the h2 with an ID of `favorites`.
+* Add functionality to make the "Print favorites" button work--when the "Print favorites" button is clicked, it should display all of the favorited startups
+in the array underneath the h2 with an ID of `favorites`.

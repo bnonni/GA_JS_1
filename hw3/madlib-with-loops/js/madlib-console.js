@@ -11,3 +11,10 @@ function startupGenerate () {
 
     document.getElementById('xForY').innerHTML = ('A startup that is ' + startupX[random1] + ', but for ' + startupY[random2]);
 }
+
+document.getElementById('save').onclick = function() {saveStartup()};
+
+function saveStartup () {
+    document.getElementById('xForY').innerHTML.push = favArray;
+    var favArray = [];
+}
