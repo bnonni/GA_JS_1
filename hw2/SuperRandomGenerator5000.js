@@ -3,8 +3,9 @@
 
 var streetNumber = [111, 145, 22342, 22, 998, 108, 500, 18, 37, 10375, 2282, 5730, 27, 99, 1099, 678, 987, 910, 4, 8, 10, 2, 1.5, 221];
 
-var streetName = ['Hidden Springs Ln', 'Clear Springs Pkwy', 'Rolling Green Dr',
-    'Spring Hill Pkwy', 'Peachtree St', 'North Ave', 'MLK Blvd', 'Fourth St', '10th St', '18th St', 'Crescent Ave', 'Quince St', 'Pine St', 'B Baker St'];
+var streetName = ['Hidden Springs Lane', 'Clear Springs Pkwy', 'Rolling Green Drive',
+    'Spring Hill Pkwy', 'Peachtree Street', 'North Avenue', 'MLK Blvd', 'Fourth Street', '10th Junction', '18th Crossing', 'Crescent Park', 'Quince Hill',
+    'Pine Trail', 'B Baker Pass'];
 
 var cityName = ['Atlanta', 'Seattle', 'Boston', 'Los Angeles', 'Portland', 'Dallas',
     'Chicago', 'Tallahassee', 'Savannah', 'Austin', 'Sydney', 'London'];
