@@ -97,3 +97,4 @@ var grungeAlbumsJS = JSON.parse(grungeAlbumsJSON);
 
 // [ Step 5 ] Create a custom JSON using the JSON validator from Step 1.
 // Convert it back to a JavaScript object, change it, and then convert it back to JSON again. Compare it to your original - how has it changed?
+

@@ -50,25 +50,58 @@
 // console.log(result);
 
 //
-// var Car = function(make, model, cylinders, doors, color, year, value, mileage){
-//     this.make = make;
-//     this.model = model;
-//     this.cyinders = cylinders;
-//     this.doors = doors;
-//     this.color = color;
-//     this.year = year;
-//     this.value = value;
-//     this.mileage = mileage;
-//     this.honk = function(){
-//         console.log("the %s goes 'beep beep'", this.make);
-//     }
-// };
-//
-// var maserati = new Car ('maserati', 'Ghibli', 8,2,'blue',2017,120000,8);
-// var acura = new Car ('acura', 'TL', 6,4,'honeysuckle white',2015,32000,200);
-// console.log(maserati.year);
-// console.log(acura.year);
-// acura.honk();
+var Car = function(make, model, cylinders, doors, color, year, value, mileage){
+    this.make = make;
+    this.model = model;
+    this.cyinders = cylinders;
+    this.doors = doors;
+    this.color = color;
+    this.year = year;
+    this.value = value;
+    this.mileage = mileage;
+    this.honk = function(){
+        console.log("the %s goes 'beep beep'", this.make);
+    }
+};
+
+var maserati = new Car ('maserati', 'Ghibli', 8,2,'blue',2017,120000,8);
+var acura = new Car ('acura', 'TL', 6,4,'honeysuckle white',2015,32000,200);
+console.log(maserati.year);
+console.log(acura.year);
+acura.honk();
+
+var acura2 = {};
+var acura2 = Object.assign(acura2, acura);
+acura2.color = 'hot damn orange';
+console.log(acura.color);
+
+var Article = function(){
+    this.setTitle = function(title){
+        if(typeof title != 'string'){
+            console.log('you dummy');
+        }else
+            this.title = title;
+    };
+};
+
+var gasPipelineNews = new Article();
+gasPipelineNews.setTitle(12);
+console.log(gasPipelineNews.title);
+
+var Account = function (type,amount,acctNum,routingNum,state){
+  this.type = type;
+    this.amount = amount;
+    this.actNum = acctNum;
+    this.routingNum = routingNum;
+    this.state = state;
+};
+
+var myChecking = new Account('checking',4000,1234567890,'0610000000','GA');
+
+
+for (var i in myChecking){
+    console.log(myChecking[i]);
+}
 
 //
 // var Shoe = function() {
@@ -88,21 +121,21 @@
 // var search = new Shoe (12, 'athletic', 'baseketball', 'green');
 // console.log(search);
 //
-
-var Monkey = function(name, species){
-    this.name = name;
-    this.species = species;
-    this.foodsEaten = [];
-    this.eatSomething = function (food) {
-        this.foodsEaten.push(food);
-    }
-    this.introduce = function () {
-        console.log('My name is ' + this.name + '. I am a ' + this.species + '. I ate a ' + this.foodsEaten.join(', ') + '.');
-    }
-};
-var monkey1 = new Monkey('Jack', 'Howler');
-monkey1.eatSomething('banana');
-monkey1.introduce();
-
-
+//
+// var Monkey = function(name, species){
+//     this.name = name;
+//     this.species = species;
+//     this.foodsEaten = [];
+//     this.eatSomething = function (food) {
+//         this.foodsEaten.push(food);
+//     }
+//     this.introduce = function () {
+//         console.log('My name is ' + this.name + '. I am a ' + this.species + '. I ate a ' + this.foodsEaten.join(', ') + '.');
+//     }
+// };
+// var monkey1 = new Monkey('Jack', 'Howler');
+// monkey1.eatSomething('banana');
+// monkey1.introduce();
+//
+//
 
