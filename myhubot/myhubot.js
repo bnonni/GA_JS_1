@@ -5,7 +5,7 @@ module.exports = function(robot) {
     });
 
     robot.respond(/Tell me a joke./, function(res) {
-        return res.send('A robot walked into a bar. The bartender says: Hey, we don’t serve robots. The robot replies menacingly: Oh, but someday you will');
+        return res.send('Im not that kind of robot');
     });
 
 
