@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://builds.handlebarsjs.com.s3.amazonaws.com/handlebars-v4.0.5.js"></script>
+</head>
+<body>
+<script id="handlebar-template" type="text/x-handlebars-template">
+    <div>
+        <h1>
+            {{title}}
+        </h1>
+        <p>
+            {{body}}
+        </p>
+    </div>
+</script>
+<script>
+    var source = $('#handlebar-template').html();
+    var template = Handlebars.compile(source);
+
+    var baconIpsum = "Drumstick jerky doner biltong boudin. Drumstick shank cow fatback, kevin rump strip steak boudin ground round flank. Porchetta pork chop filet mignon turducken hamburger pork loin meatloaf pig pork belly salami sirloin sausage ground round. Sausage porchetta ground round jowl.";
+    var context = {title:"This is my first handle bars app", body:baconIpsum};
+    var html = template(context);
+
+    $('body').append(html);
+</script>
+</body>
+</html>
