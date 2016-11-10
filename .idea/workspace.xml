@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b4cf5d3-944c-43a3-a518-40cb05182f68" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/99bottles/Brew.html" afterPath="$PROJECT_DIR$/hw4/99bottles/Brew.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/99bottles/scripts/Brew.js" afterPath="$PROJECT_DIR$/hw4/99bottles/scripts/Brew.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/99bottles/scripts/jquery-3.1.0.min (1).js" afterPath="$PROJECT_DIR$/hw4/99bottles/scripts/jquery-3.1.0.min (1).js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit_1/myhubot.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/unit1/project-01.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/unit1/starter_code/slackbot.js" afterPath="" />
     </list>
     <ignored path="bnonni.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,9 +28,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="myhubot.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/myhubot/scripts/myhubot.js">
+        <entry file="file://$PROJECT_DIR$/unit_1/myhubot.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-391">
+            <state relative-caret-position="-106">
               <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
               <folding />
             </state>
@@ -161,38 +160,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bnonni.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bnonni.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myhubot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bnonni.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bnonni.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myhubot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -214,11 +181,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/unit_1" />
       <recent name="$PROJECT_DIR$/hw4" />
       <recent name="$PROJECT_DIR$/99bottles/scripts" />
       <recent name="$PROJECT_DIR$/99bottles" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/js_dom_exercise" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -312,12 +279,12 @@
       <workItem from="1477525338012" duration="33294000" />
       <workItem from="1478456921369" duration="4871000" />
       <workItem from="1478643471938" duration="5184000" />
-      <workItem from="1478788638672" duration="258000" />
+      <workItem from="1478788638672" duration="395000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78884000" />
+    <option name="totallyTimeSpent" value="79021000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="817" extended-state="6" />
@@ -655,9 +622,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/myhubot.js" />
-    <entry file="file://$PROJECT_DIR$/myhubot/scripts/myhubot.js">
+    <entry file="file://$PROJECT_DIR$/unit_1/myhubot.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-391">
+        <state relative-caret-position="-106">
           <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
           <folding />
         </state>
